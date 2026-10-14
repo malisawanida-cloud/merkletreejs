@@ -1,4 +1,4 @@
-<h3 align="center">
+    <h3 align="center">
   <br />
   <img src="https://user-images.githubusercontent.com/4885186/193118010-2a9f5129-6232-42bd-8efe-dfb29753508e.png" alt="merkletree.js logo" width="600" />
   <br />
